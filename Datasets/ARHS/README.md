@@ -7,7 +7,6 @@ his directory contains the data collected for the thesis:
 by Emmanuel Munguia Tapia
 
 for any referece to this work or dataset please use:
-
 -E. Munguia Tapia. Activity Recognition in the Home Using Simple and Ubiquitous
  Sensors. Pervasive 2004,Vienna, Austria.
 
@@ -31,8 +30,8 @@ the files, you can use Excel or Wordpad.
 
 Each directory contains the following files:
 
-
 1) sensors.csv
+==============
 
 file containing the sensor information in the following forma:
 
@@ -49,6 +48,7 @@ example:
 
 
 2)activities.csv
+================
 
 is the file containing all the activities analyzed in the following format
 
@@ -64,6 +64,7 @@ Personal needs,Personal hygiene,Toileting,15
 
 
 3)activities_data.csv
+=====================
 
 is the data of the activities in the following format:
 
@@ -88,10 +89,4 @@ Toilet Flush,Sink faucet - hot
 18:10:57,17:39:52
 
 
-Send any questions or comments to
-
-
--Emmanuel Munguia Tapia [emunguia@media.mit.edu]
-
-
-
+Send any questions or comments to Emmanuel Munguia Tapia [emunguia@media.mit.edu]
